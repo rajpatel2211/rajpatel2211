@@ -50,7 +50,7 @@
 - Add your best model + accuracy  
 
 ### 📈 DSA
-- 100+ problems (Graphs, DP, Trees)
+- 30+ problems 
 
 ---
 
