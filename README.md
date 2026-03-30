@@ -65,7 +65,7 @@
 
 ## 📊 Top Languages
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rajpatel2211&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel2211&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rajpatel2211&label=Profile%20Views&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=rajpatel2211&label=Profile%20Views&color=blue&style=flat-square"/>
 </p>
 
 ---
