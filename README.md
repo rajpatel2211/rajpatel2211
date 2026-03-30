@@ -12,8 +12,8 @@
 ## 🌟 About Me
 - 🎓 M.Tech in Artificial Intelligence  
 - 🧠 AI + ML + Full Stack Development  
-- 🚀 Building **MedHub – Smart Medical Inventory System**  
-- 💻 100+ DSA problems solved  
+- 🚀 Build **MedHub – Smart Medical Inventory System**  
+- 💻 30+ DSA problems solved  
 - 🎯 Goal: AI Engineer  
 
 ---
