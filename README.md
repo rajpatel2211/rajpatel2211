@@ -55,16 +55,14 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajpatel2211&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajpatel2211&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 📊 Top Languages
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajpatel2211&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajpatel2211&theme=tokyonight"/>
 </p>
 
 ---
