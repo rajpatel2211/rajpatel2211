@@ -23,7 +23,7 @@
 <a href="https://github.com/rajpatel2211">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/your-link">
+<a href=https://www.linkedin.com/in/raj-patel-1326b332b/?skipRedirect=true>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rajptl2211@gmail.com">
