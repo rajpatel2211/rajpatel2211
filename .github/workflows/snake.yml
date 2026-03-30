@@ -6,21 +6,25 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 VERY IMPORTANT (fixes error 128)
+  contents: write
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: rajpatel2211
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            github-contribution-grid-snake.svg
 
-      - name: Push snake to branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          add: "github-contribution-grid-snake.svg"
+          message: "Generate snake"
